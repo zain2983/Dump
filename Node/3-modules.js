@@ -19,3 +19,4 @@ require('./7-mind-gernade')
 // sayHi(names.john)
 // sayHi(names.peter)
 
+sayHi(names.myname)
