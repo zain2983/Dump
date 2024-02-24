@@ -9,3 +9,6 @@ const myname = 'zain'
 //console.log(module)
 
 module.exports = {john,peter,myname}
+
+
+// this is a basic update
