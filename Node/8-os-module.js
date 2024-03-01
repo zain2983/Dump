@@ -17,4 +17,7 @@ const currentOS = {
     freeMem : os.freemem(),
 }
 console.log('System stats : ' + currentOS)
-console.log(currentOS)
+console.log(currentOS) 
+
+
+
