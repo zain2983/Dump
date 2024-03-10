@@ -9,7 +9,6 @@ const time = os.uptime()
 console.log(`The system uptime is ${os.uptime()} seconds.`)
 console.log('The system uptime is ' + (time) + 'seconds')
 
-
 const currentOS = {
     name : os.type(),
     release : os.release(),
@@ -17,6 +16,4 @@ const currentOS = {
     freeMem : os.freemem(),
 }
 console.log('System stats : ' + currentOS)
-console.log(currentOS) 
-
-//this is just a comment
+console.log(currentOS)
