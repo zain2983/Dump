@@ -1,0 +1,8 @@
+
+
+1 - start the server 
+python3 serv.py
+
+
+2 - start the html file on a python server 
+python -m http.server 8000
